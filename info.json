@@ -1,0 +1,15 @@
+{
+    "name": "TEAsWAP.ART Token",
+    "website": "https://www.teaswap.art/home",
+    "telegram": "https://t.me/icashrewards123",
+    "discord": "",
+    "twitter": "https://twitter.com/ArtTeaswap",
+    "description": "TSA is a new cross-chain of NFTart Marketplace built on Binance Smart Chain (BSC) and Ethereum network.",
+    "explorer": "https://bscscan.com/token/0x5f99acf13caff815dd9cb4a415c0fb34e9f4545b",
+    "type": "BEP20",
+    "symbol": "TSA",
+    "decimals": 18,
+    "slippage": 3,
+    "status": "active",
+    "id": "0x5f99acf13caff815dd9cb4a415c0fb34e9f4545b"
+}
