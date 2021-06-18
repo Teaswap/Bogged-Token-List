@@ -1,14 +1,9 @@
-{
-    "name": "Ultra NFT",
-    "website": "https://ultranft.finance/",
-    "telegram": "https://t.me/ultranft",
-    "discord": "https://discord.gg/ultranft",
-    "twitter": "https://twitter.com/ultranft",
-    "description": "Ultra NFT focused on endangered animals and natural wonders in the NFT market. It aims to bring in its investors and to take part in projects that are beneficial to its followers. It helps associations related to nature and animals with the proceeds from all trades.",
-    "explorer": "https://bscscan.com/token/0xdB29192Fc2B487BB5185e155752328d4f249743C",
+"name": "Shih Tzu Token",
+    "website": "https://www.shih-tzu.live/",
+    "description": "Shih is Decentralized Meme Token and can be used at Shih Tzu NFT Caffe Shop or redeem Shih NFT collectibles",
+    "explorer": "https://bscscan.com/token/0x36ac9eaf028c175d62e086945862924e4ba7516f",
     "type": "BEP20",
-    "symbol": "UNFT",
+    "symbol": "Shih",
     "decimals": 18,
     "status": "active",
-    "id": "0xdB29192Fc2B487BB5185e155752328d4f249743C"
-}
+    "id": "0x36ac9eaf028c175d62e086945862924e4ba7516f"
