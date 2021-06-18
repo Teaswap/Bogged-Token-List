@@ -1,14 +1,15 @@
 {
-    "name": "Ultra NFT",
-    "website": "https://ultranft.finance/",
-    "telegram": "https://t.me/ultranft",
-    "discord": "https://discord.gg/ultranft",
-    "twitter": "https://twitter.com/ultranft",
-    "description": "Ultra NFT focused on endangered animals and natural wonders in the NFT market. It aims to bring in its investors and to take part in projects that are beneficial to its followers. It helps associations related to nature and animals with the proceeds from all trades.",
-    "explorer": "https://bscscan.com/token/0xdB29192Fc2B487BB5185e155752328d4f249743C",
+    "name": "TEAsWAP.ART Token",
+    "website": "https://www.teaswap.art/home",
+    "telegram": "https://t.me/icashrewards123",
+    "discord": "",
+    "twitter": "https://twitter.com/ArtTeaswap",
+    "description": "TSA is a new cross-chain of NFTart Marketplace built on Binance Smart Chain (BSC) and Ethereum network.",
+    "explorer": "https://bscscan.com/token/0x5f99acf13caff815dd9cb4a415c0fb34e9f4545b",
     "type": "BEP20",
-    "symbol": "UNFT",
+    "symbol": "TSA",
     "decimals": 18,
+    "slippage": 3,
     "status": "active",
-    "id": "0xdB29192Fc2B487BB5185e155752328d4f249743C"
+    "id": "0x5f99acf13caff815dd9cb4a415c0fb34e9f4545b"
 }
