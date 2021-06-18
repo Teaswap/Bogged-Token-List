@@ -1,15 +1,9 @@
-{
-    "name": "TEAsWAP.ART Token",
-    "website": "https://www.teaswap.art/home",
-    "telegram": "https://t.me/icashrewards123",
-    "discord": "",
-    "twitter": "https://twitter.com/ArtTeaswap",
-    "description": "TSA is a new cross-chain of NFTart Marketplace built on Binance Smart Chain (BSC) and Ethereum network.",
-    "explorer": "https://bscscan.com/token/0x5f99acf13caff815dd9cb4a415c0fb34e9f4545b",
+"name": "Shih Tzu Token",
+    "website": "https://www.shih-tzu.live/",
+    "description": "Shih is Decentralized Meme Token and can be used at Shih Tzu NFT Caffe Shop or redeem Shih NFT collectibles",
+    "explorer": "https://bscscan.com/token/0x36ac9eaf028c175d62e086945862924e4ba7516f",
     "type": "BEP20",
-    "symbol": "TSA",
+    "symbol": "Shih",
     "decimals": 18,
-    "slippage": 3,
     "status": "active",
-    "id": "0x5f99acf13caff815dd9cb4a415c0fb34e9f4545b"
-}
+    "id": "0x36ac9eaf028c175d62e086945862924e4ba7516f"
